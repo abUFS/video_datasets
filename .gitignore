@@ -1,0 +1,36 @@
+# Pastas de vídeos - não incluir no repositório
+IJCB Videos/
+T-BIOM Videos/
+
+# Arquivos de vídeo comuns (caso apareçam em outros locais)
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.mkv
+*.flv
+*.webm
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
